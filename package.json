@@ -23,7 +23,7 @@
     "image-overlay-react": "^1.0.3",
     "jwt-decode": "^3.1.2",
     "malaysia-postcodes": "^1.0.5",
-    "node-sass": "^7.0.3",
+    "node-sass": "^8.0.0",
     "pagination": "^0.4.6",
     "rc-pagination": "^3.2.0",
     "react": "^18.2.0",

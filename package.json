@@ -19,7 +19,7 @@
     "axios": "^1.1.3",
     "cookie-parser": "^1.4.6",
     "dayjs": "^1.11.6",
-    "dompurify": "^2.4.1",
+    "dompurify": "^2.4.2",
     "image-overlay-react": "^1.0.3",
     "jwt-decode": "^3.1.2",
     "malaysia-postcodes": "^1.0.5",

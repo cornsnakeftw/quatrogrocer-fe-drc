@@ -38,7 +38,7 @@
     "react-scripts": "5.0.1",
     "react-toastify": "^9.1.1",
     "use-history": "^1.4.1",
-    "validator": "^13.7.0",
+    "validator": "^13.15.20",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
